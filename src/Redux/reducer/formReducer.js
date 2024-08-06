@@ -1,4 +1,4 @@
-import { NAME, EMAIL } from "../action/actionTypes";
+import { NAME, EMAIL } from "./action/actionTypes";
 
 const initailVal = {
   name: "",
